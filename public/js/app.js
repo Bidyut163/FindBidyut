@@ -31,8 +31,8 @@ const projects = {
         tagline: 'E-filing portal for REAT Assam',
         description:
             'Assam REAT portal for filing of appeals. Built using React-Redux and Node.js',
-        websiteLink: 'https://areatappeal.in/',
-        // gitRepository: 'https://github.com/Bidyut163/Natours',
+        websiteLink: 'https://efiling-appeal.netlify.app/',
+        gitRepository: 'https://github.com/Bidyut163/efiling-appeal-dev',
     },
 
     2: {
